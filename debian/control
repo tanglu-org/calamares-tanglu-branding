@@ -1,0 +1,30 @@
+Source: calamares-branding-tanglu
+Section: misc
+Priority: optional
+Maintainer: Tanglu Developers <tanglu-devel-discuss@lists.tanglu.org>
+Build-Depends: debhelper (>= 9),
+Standards-Version: 3.9.6
+Vcs-Git: https://gitlab.com/tanglu/calamares-branding-tanglu.git
+Vcs-Browser: https://gitlab.com/tanglu/calamares-branding-tanglu
+
+Package: calamares-branding-tanglu-kde
+Architecture: all
+Depends: ${misc:Depends}
+Provides: calamares-branding
+Conflicts: calamares-branding-tanglu-gnome
+Description: Tanglu KDE branding for the Calamares installer
+ Calamares is the live-installer used in Tanglu.
+ It is able to install a live Linux system onto a hard drive.
+ .
+ This package contains Tanglu KDE branding for Calamares.
+
+Package: calamares-branding-tanglu-gnome
+Architecture: all
+Depends: ${misc:Depends}
+Provides: calamares-branding
+Conflicts: calamares-branding-tanglu-kde
+Description: Tanglu GNOME branding for the Calamares installer
+ Calamares is the live-installer used in Tanglu.
+ It is able to install a live Linux system onto a hard drive.
+ .
+ This package contains Tanglu GNOME branding for Calamares.
