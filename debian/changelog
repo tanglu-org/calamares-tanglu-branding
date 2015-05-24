@@ -1,3 +1,9 @@
+calamares-branding-tanglu (3.0) staging; urgency=medium
+
+  * Reuse branding from old live-installer
+
+ -- Matthias Klumpp <mak@debian.org>  Sun, 24 May 2015 22:32:08 +0200
+
 calamares-branding-tanglu (1.0) staging; urgency=medium
 
   * Initial release
