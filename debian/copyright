@@ -5,6 +5,14 @@ Files: *
 Copyright: 2015, Matthias Klumpp <matthias@tenstral.net>
 License: GPL-2+
 
+Files: tanglu-kde/images/*
+Copyright: The KDE Oxygen icons team
+License: GPL-2+
+
+Files: tanglu-gnome/images/*
+Copyright: The GNOME developers
+License: GPL-2+
+
 Files: debian/*
 Copyright: 2015, Matthias Klumpp <matthias@tenstral.net>
 License: GPL-2+
