@@ -2,7 +2,7 @@
 componentName:  tanglu
 
 strings:
-    productName:         Tanglu GNU/Linux with GNOME
+    productName:         Tanglu GNU/Linux with KDE
     shortProductName:    Tanglu
     version:             3.0 Beta1
     shortVersion:        3.0
