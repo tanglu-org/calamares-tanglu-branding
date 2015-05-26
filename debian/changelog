@@ -1,3 +1,9 @@
+calamares-branding-tanglu (3.1) staging; urgency=medium
+
+  * Fix typo in KDE branding
+
+ -- Matthias Klumpp <mak@debian.org>  Tue, 26 May 2015 19:36:35 +0200
+
 calamares-branding-tanglu (3.0) staging; urgency=medium
 
   * Reuse branding from old live-installer
