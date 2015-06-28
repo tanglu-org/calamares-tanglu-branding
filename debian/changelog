@@ -1,3 +1,9 @@
+calamares-branding-tanglu (3.2) staging; urgency=medium
+
+  * Update for RC/Final release
+
+ -- Matthias Klumpp <mak@debian.org>  Sun, 28 Jun 2015 22:40:26 +0200
+
 calamares-branding-tanglu (3.1) staging; urgency=medium
 
   * Fix typo in KDE branding
