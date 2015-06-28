@@ -4,9 +4,9 @@ componentName:  tanglu
 strings:
     productName:         Tanglu GNU/Linux with GNOME
     shortProductName:    Tanglu
-    version:             3.0 Beta1
-    shortVersion:        3.0
-    versionedName:       Tanglu GNU/Linux 3.0 Beta1 "Chromodoris"
+    version:             3.0
+    shortVersion:        3
+    versionedName:       Tanglu GNU/Linux 3.0 "Chromodoris"
     shortVersionedName:  Tanglu 3.0
     bootloaderEntryName: Tanglu
 
