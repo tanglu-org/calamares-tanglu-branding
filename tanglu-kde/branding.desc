@@ -4,10 +4,10 @@ componentName:  tanglu
 strings:
     productName:         Tanglu GNU/Linux with KDE
     shortProductName:    Tanglu
-    version:             3.0
-    shortVersion:        3
-    versionedName:       Tanglu GNU/Linux 3.0 "Chromodoris"
-    shortVersionedName:  Tanglu 3.0
+    version:             4.0~alpha
+    shortVersion:        4~a
+    versionedName:       Tanglu GNU/Linux 4.0~a "Dasyatis"
+    shortVersionedName:  Tanglu 4.0~a
     bootloaderEntryName: Tanglu
 
 images:
