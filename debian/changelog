@@ -1,3 +1,13 @@
+calamares-branding-tanglu (4.1) staging; urgency=medium
+
+  * Another attempt to fix the terrible slideshow layouting
+  * Have users greeted by the Konqui-army
+  * Optimize PNGs
+  * Update branding for the beta release
+  * Add gbp.conf
+
+ -- Matthias Klumpp <mak@debian.org>  Sat, 12 Mar 2016 18:56:02 +0100
+
 calamares-branding-tanglu (3.9) staging; urgency=medium
 
   * Update for upcoming T4 alpha release
