@@ -35,9 +35,8 @@ Presentation
         Image {
             id: background
             source: "images/background.jpg"
-            //fillMode: Image.PreserveAspectFit
-            width: parent.width
-            height: parent.height
+            fillMode: Image.PreserveAspectFit
+            anchors.centerIn: parent
         }
 
         Image {
@@ -88,9 +87,8 @@ Presentation
 
         Image {
             source: "images/background.jpg"
-            //fillMode: Image.PreserveAspectFit
-            width: parent.width
-            height: parent.height
+            fillMode: Image.PreserveAspectFit
+            anchors.centerIn: parent
         }
 
         Image {
@@ -136,9 +134,8 @@ Presentation
 
         Image {
             source: "images/background.jpg"
-            //fillMode: Image.PreserveAspectFit
-            width: parent.width
-            height: parent.height
+            fillMode: Image.PreserveAspectFit
+            anchors.centerIn: parent
         }
 
         Image {
@@ -183,9 +180,8 @@ Presentation
 
         Image {
             source: "images/background.jpg"
-            //fillMode: Image.PreserveAspectFit
-            width: parent.width
-            height: parent.height
+            fillMode: Image.PreserveAspectFit
+            anchors.centerIn: parent
         }
 
         Image {
@@ -232,9 +228,8 @@ Presentation
 
         Image {
             source: "images/background.jpg"
-            //fillMode: Image.PreserveAspectFit
-            width: parent.width
-            height: parent.height
+            fillMode: Image.PreserveAspectFit
+            anchors.centerIn: parent
         }
 
         Image {
@@ -278,9 +273,8 @@ Presentation
 
         Image {
             source: "images/background.jpg"
-            //fillMode: Image.PreserveAspectFit
-            width: parent.width
-            height: parent.height
+            fillMode: Image.PreserveAspectFit
+            anchors.centerIn: parent
         }
 
         Image {
@@ -324,9 +318,8 @@ Presentation
 
         Image {
             source: "images/background.jpg"
-            //fillMode: Image.PreserveAspectFit
-            width: parent.width
-            height: parent.height
+            fillMode: Image.PreserveAspectFit
+            anchors.centerIn: parent
         }
 
         Image {
