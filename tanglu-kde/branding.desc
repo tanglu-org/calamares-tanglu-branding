@@ -4,15 +4,19 @@ componentName:  tanglu
 strings:
     productName:         Tanglu GNU/Linux with KDE
     shortProductName:    Tanglu
-    version:             4.0~alpha
-    shortVersion:        4~a
-    versionedName:       Tanglu GNU/Linux 4.0~a "Dasyatis"
-    shortVersionedName:  Tanglu 4.0~a
+    version:             4.0~beta (Dasyatis)
+    shortVersion:        4.0~b
+    versionedName:       Tanglu GNU/Linux 4.0~b "Dasyatis"
+    shortVersionedName:  Tanglu 4.0~b
     bootloaderEntryName: Tanglu
+    productUrl:          http://tanglu.org/
+    supportUrl:          https://tracker.tanglu.org/
+    releaseNotesUrl:     http://wiki.tanglu.org/releases/DasyatisReleaseNotes
 
 images:
     productLogo:         "tanglu-mono.png"
     productIcon:         "tanglu-mono.png"
+    productWelcome:      "welcome.png"
 
 slideshow:               "show.qml"
 
