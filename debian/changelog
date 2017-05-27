@@ -1,3 +1,9 @@
+calamares-branding-tanglu (4.2) staging; urgency=medium
+
+  * Prepare for release
+
+ -- Matthias Klumpp <mak@debian.org>  Sat, 27 May 2017 17:36:20 +0200
+
 calamares-branding-tanglu (4.1) staging; urgency=medium
 
   * Another attempt to fix the terrible slideshow layouting
